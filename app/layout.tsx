@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     title: "Dough Calculator",
   },
   icons: {
-    apple: "/apple-touch-icon.png",
+    apple: "/icons/apple-touch-icon-v2.png",
   },
 };
 
