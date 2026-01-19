@@ -5,7 +5,7 @@ export default function manifest(): MetadataRoute.Manifest {
     name: "Dough Calculator",
     short_name: "DoughCalc",
     description: "A simple calculator to work out dough amounts",
-    start_url: "/?v=2",
+    start_url: "/?v=3",
     display: "standalone",
     background_color: "#ffffff",
     theme_color: "#000000",
